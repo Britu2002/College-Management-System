@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Collage_Managment_System</string>
+    <string-array name="course">
+        <item>--select course--</item>
+        <item>BCA I</item>
+        <item>BCA II</item>
+        <item>BCA III</item>
+    </string-array>
+
+    <string-array name="day">
+        <item>--select day--</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    <string-array name="gender">
+        <item>--select gender--</item>
+
+        <item>male</item>
+        <item>female</item>
+        <item>other</item>
+    </string-array>
+    <string-array name="sem">
+        <item>--select semester--</item>
+
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+        <item>5th</item>
+        <item>6th</item>
+        <item>7th</item>
+        <item>8th</item>
+    </string-array>
+</resources>
